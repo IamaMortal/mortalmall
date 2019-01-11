@@ -1,4 +1,4 @@
-package com.mortal.mortallmall;
+package com.mortal.mortalmall;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
