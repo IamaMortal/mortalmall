@@ -2,6 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config_server_8848" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mortal_basic_parent" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mortal_basic_parent/basic_util" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mortal_eurekaserver_7001" charset="UTF-8" />

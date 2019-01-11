@@ -13,6 +13,7 @@
         <module>mortal_plat_parent</module>
         <module>mortal_basic_parent</module>
         <module>mortal_zuulgateway_9527</module>
+        <module>config_server_8848</module>
     </modules>
 
     <!--限定springboot版本-->
