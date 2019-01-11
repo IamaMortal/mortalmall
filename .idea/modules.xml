@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mortal_basic_parent/basic_util/basic_util.iml" filepath="$PROJECT_DIR$/mortal_basic_parent/basic_util/basic_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mortal_basic_parent/mortal_basic_parent.iml" filepath="$PROJECT_DIR$/mortal_basic_parent/mortal_basic_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mortal_eurekaserver_7001/mortal_eurekaserver_7001.iml" filepath="$PROJECT_DIR$/mortal_eurekaserver_7001/mortal_eurekaserver_7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mortal_plat_parent/mortal_plat_parent.iml" filepath="$PROJECT_DIR$/mortal_plat_parent/mortal_plat_parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mortal_zuulgateway_9527/mortal_zuulgateway_9527.iml" filepath="$PROJECT_DIR$/mortal_zuulgateway_9527/mortal_zuulgateway_9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mortalmall.iml" filepath="$PROJECT_DIR$/mortalmall.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mortal_plat_parent/plat_interface/plat_interface.iml" filepath="$PROJECT_DIR$/mortal_plat_parent/plat_interface/plat_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mortal_plat_parent/plat_server8001/plat_server8001.iml" filepath="$PROJECT_DIR$/mortal_plat_parent/plat_server8001/plat_server8001.iml" />
+    </modules>
+  </component>
+</project>
