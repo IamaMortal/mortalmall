@@ -59,7 +59,7 @@
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
-                    <mainClass>com.mortal.mortallmall.PlatServerApplication_8001</mainClass>
+                    <mainClass>com.mortal.mortalmall.PlatServerApplication_8001</mainClass>
                     <layout>ZIP</layout>
                 </configuration>
                 <executions>

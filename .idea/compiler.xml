@@ -15,15 +15,15 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="basic_util" target="1.5" />
-      <module name="config_server_8848" target="1.5" />
-      <module name="mortal_basic_parent" target="1.5" />
-      <module name="mortal_eurekaserver_7001" target="1.5" />
-      <module name="mortal_plat_parent" target="1.5" />
-      <module name="mortal_zuulgateway_9527" target="1.5" />
-      <module name="mortalmall" target="1.5" />
-      <module name="plat_interface" target="1.5" />
-      <module name="plat_server8001" target="1.5" />
+      <module name="basic_util" target="8" />
+      <module name="config_server_8848" target="8" />
+      <module name="mortal_basic_parent" target="8" />
+      <module name="mortal_eurekaserver_7001" target="8" />
+      <module name="mortal_plat_parent" target="8" />
+      <module name="mortal_zuulgateway_9527" target="8" />
+      <module name="mortalmall" target="8" />
+      <module name="plat_interface" target="8" />
+      <module name="plat_server8001" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
